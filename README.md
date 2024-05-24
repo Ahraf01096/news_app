@@ -1,16 +1,15 @@
-# news
+# News App 📰
 
 A new Flutter project.
+It is an application to display all news using API it displays general news on the home page and through categorists displays specialized news such as sports and health.
 
-## Getting Started
+## Tools:
+Dart, Flutter, url_launcher and Dio
 
-This project is a starting point for a Flutter application.
+#### accounts:
+[Facebook](https://www.facebook.com/ahmd.ahraf30/)
+[LinkedIn](https://www.linkedin.com/in/ahmed-ashraf-39a798194/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<img src="https://github.com/Ahraf01096/weather_app2/assets/136133152/d281e812-d783-4034-bfec-63efe200a82c">
+</div>
